@@ -1,0 +1,1 @@
+Using git to track my rails 4 test prescriptions progress as I look to add BDD/TDD to my toolkit.
